@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Nekvinder Singh",
+        "title": "Nekvinder Singh : Profile",
         "meta_descr": "A software, app and website developer.\n",
         "header_custom": "",
         "footer_custom": "",
@@ -577,7 +577,7 @@
     "About-Me.html": {
       "settings": {
         "meta_descr": "About Nekvinder Singh",
-        "title": "About-Me",
+        "title": "About Me",
         "order": 1
       },
       "components": [
